@@ -1,0 +1,1 @@
+En uppgift anses vara färdig när den uppfyller de överenskomna kraven, är dokumenterad och har granskats av minst en annan teammedlem. Resultatet ska vara versionshanterat och tillräckligt tydligt för att kunna användas i den fortsatta projektprocessen.

@@ -1,0 +1,1 @@
+Sprintmålet är att skapa en robust grund för det fortsatta säkerhetsarbetet genom att etablera en tydlig projektstruktur och utveckla en grundläggande förståelse för MITRE ATT&CK. Detta ska göra det möjligt för teamet att arbeta mer fokuserat och effektivt i kommande workshops.
