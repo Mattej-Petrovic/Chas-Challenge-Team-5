@@ -1,0 +1,1 @@
+Vårt team ska samarbeta nära genom hela projektet och upprätthålla en tydlig kommunikation mellan samtliga medlemmar. Arbetet ska samordnas utifrån de olika rollerna och resurserna ska fördelas på ett tydligt sätt. Genom att tydliggöra ansvar och arbetsuppgifter kan teamet arbeta mer effektivt och säkerställa att projektet förtsätter framåt enligt plan. 

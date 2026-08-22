@@ -1,0 +1,1 @@
+Teamet ska prioritera de mest kritiska arbetsuppgifterna utifrån projektets krav och mål. Genom att strukturera backloggen och tydliggöra prioriteringar kan arbetet effektiviseras. Teamet ska även följa upp framstegen och identifiera eventuella utmaningar som kan påverka projektets utveckling.
